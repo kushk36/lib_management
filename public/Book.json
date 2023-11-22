@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "image": "/images/great-gatsby.jpg.jpg",
+        "category": "Fiction",
+        "author": "F. Scott Fitzgerald",
+        "description": "The Great Gatsby is a novel by F. Scott Fitzgerald...  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam deserunt adipisci delectus, error nobis iusto nulla quae laboriosam culpa dignissimos perspiciatis laudantium qui rerum animi asperiores iure? Dicta mollitia quod dolorem officiis voluptatem culpa laborum minus? Quod cum laboriosam dignissimos, fugiat nesciunt rem enim recusandae eveniet. Rem nihil earum optio minima id, velit blanditiis officiis aliquid, voluptates ut suscipit sint mollitia nam dignissimos adipisci officia non commodi eaque excepturi labore iste recusandae placeat saepe! Quidem placeat quam tempora molestiae aut earum consectetur perspiciatis, tempore corrupti explicabo quaerat, necessitatibus fugit adipisci veniam nemo libero corporis praesentium! Nisi iste ipsa veniam officia.",
+        "issueDate": "2023-08-01",
+        "returnDate": "2023-08-15",
+        "isIssued": "yes"
+    },
+    {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "image": "/images/to-killing-mockingbird.jpg",
+        "category": "Fiction",
+        "author": "Harper Lee",
+        "description": "To Kill a Mockingbird is a novel by Harper Lee...",
+        "issueDate": "2023-07-20",
+        "returnDate": "2023-08-05",
+        "isIssued": "no"
+    },
+    {
+        "id": 3,
+        "title": "1984",
+        "image": "/images/1984.jpg",
+        "category": "Science Fiction",
+        "author": "George Orwell",
+        "description": "1984 is a dystopian novel by George Orwell...",
+        "issueDate": "2023-07-10",
+        "returnDate": "2023-07-25",
+        "isIssued": "yes"
+    },
+    {
+        "id": 4,
+        "title": "Pride and Prejudice",
+        "image": "/images/PrideAndPrejudice.jpg",
+        "category": "Classic Literature",
+        "author": "Jane Austen",
+        "description": "Pride and Prejudice is a novel by Jane Austen...",
+        "issueDate": "2023-08-05",
+        "returnDate": "2023-08-20",
+        "isIssued": "no"
+    },
+    {
+        "id": 5,
+        "title": "The Hobbit",
+        "image": "/images/The_Hobbit.jpg",
+        "category": "Fantasy",
+        "author": "J.R.R. Tolkien",
+        "description": "The Hobbit is a fantasy novel by J.R.R. Tolkien...",
+        "issueDate": "2023-07-15",
+        "returnDate": "2023-07-30",
+        "isIssued": "yes"
+    },
+    {
+        "id": 6,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "image": "/images/Harry Potter and the Sorcerer's Stone.jpeg",
+        "category": "Fantasy",
+        "author": "J.K. Rowling",
+        "description": "Harry Potter and the Sorcerer's Stone is the first book...",
+        "issueDate": "2023-08-10",
+        "returnDate": "2023-08-25",
+        "isIssued": "no"
+    }
+]
